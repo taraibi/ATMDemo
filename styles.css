@@ -1,0 +1,19 @@
+#root {
+background: linear-gradient(#e66465, #9198e5);
+text-align: center;
+}
+
+#select {
+  display: block;
+  margin: 0 auto;
+}
+
+
+select {
+  display: center;
+  margin: 0 auto;
+}
+
+.center {
+  display: center;
+}
